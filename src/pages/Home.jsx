@@ -1,6 +1,6 @@
 import { useReducer, useState } from 'react'
 import '../App.css'
-import MenuCategory from '../components/MenuCategory'
+import MenuCategory from '../components/menuCategory'
 import menuData from '../menuData'
 import DailySpecial from '../components/DailySpecial'
 
