@@ -2,7 +2,7 @@
 
 import { Routes, Route } from 'react-router-dom'
 
-import NavBar from './components/NavBar'
+import Navbar from './components/Navbar'
 
 import Home from './pages/Home'
 
@@ -18,7 +18,7 @@ function App() {
 
     <div className="App">
 
-      <NavBar />
+      <Navbar />
 
       <Routes>
 
